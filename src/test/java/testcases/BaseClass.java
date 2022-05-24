@@ -34,6 +34,7 @@ public class BaseClass {
 	@BeforeClass
 	public void launchUrl(String br) {
 		// this is base class
+		//added second comment
 		logger=Logger.getLogger("Automation Project");
 		PropertyConfigurator.configure(System.getProperty("user.dir")+"//Log4j//log4j.properties");
 	
