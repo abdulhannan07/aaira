@@ -1,0 +1,35 @@
+2022-05-24 15:46:10,576 - Automation Project -INFO - launched chrome browser
+2022-05-24 15:46:10,649 - Automation Project -INFO - launched chrome browser
+2022-05-24 15:46:19,381 - Automation Project -INFO - entered url
+2022-05-24 15:46:19,480 - Automation Project -INFO - entered url
+2022-05-24 15:46:22,479 - Automation Project -INFO - entered username
+2022-05-24 15:46:22,657 - Automation Project -INFO - entered username
+2022-05-24 15:46:22,729 - Automation Project -INFO - entered password
+2022-05-24 15:46:22,928 - Automation Project -INFO - entered password
+2022-05-24 15:46:25,398 - Automation Project -INFO - clicked login
+2022-05-24 15:46:26,097 - Automation Project -INFO - clicked on login button
+2022-05-24 15:46:26,149 - Automation Project -INFO - test case passed
+2022-05-24 15:46:26,667 - Automation Project -INFO - browser closed
+2022-05-24 15:46:28,733 - Automation Project -INFO - entered logout button
+2022-05-24 15:46:28,739 - Automation Project -INFO - test case passed
+2022-05-24 15:46:31,923 - Automation Project -INFO - entered username
+2022-05-24 15:46:32,038 - Automation Project -INFO - entered password
+2022-05-24 15:46:33,009 - Automation Project -INFO - clicked login
+2022-05-24 15:46:38,045 - Automation Project -INFO - test case failed
+2022-05-24 15:46:38,404 - Automation Project -INFO - entered username
+2022-05-24 15:46:38,520 - Automation Project -INFO - entered password
+2022-05-24 15:46:39,772 - Automation Project -INFO - clicked login
+2022-05-24 15:46:44,595 - Automation Project -INFO - test case failed
+2022-05-24 15:46:44,728 - Automation Project -INFO - entered username
+2022-05-24 15:46:44,924 - Automation Project -INFO - entered password
+2022-05-24 15:46:45,375 - Automation Project -INFO - clicked login
+2022-05-24 15:46:50,236 - Automation Project -INFO - test case failed
+2022-05-24 15:46:50,550 - Automation Project -INFO - entered username
+2022-05-24 15:46:50,661 - Automation Project -INFO - entered password
+2022-05-24 15:46:51,888 - Automation Project -INFO - clicked login
+2022-05-24 15:46:56,708 - Automation Project -INFO - test case failed
+2022-05-24 15:46:57,055 - Automation Project -INFO - entered username
+2022-05-24 15:46:57,161 - Automation Project -INFO - entered password
+2022-05-24 15:46:57,610 - Automation Project -INFO - clicked login
+2022-05-24 15:47:02,391 - Automation Project -INFO - test case failed
+2022-05-24 15:47:02,583 - Automation Project -INFO - browser closed

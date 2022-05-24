@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+
+
+  <test name="LoginTest" verbose="2">
+  
+  <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testcases.TC001_LoginTest"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
